@@ -1,0 +1,8 @@
+NO OOP
+TDD Only
+Single loop
+No Functions
+Only Modules
+Bottom-UP
+No arrays / lists methods (sum, any, contains, etc)
+Use any sorting algorithm
