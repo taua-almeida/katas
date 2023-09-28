@@ -19,9 +19,9 @@ And my take is that TDD is cool, but you should do the kata for practicing progr
 * If a bowler knocks down all ten pins after two rolls in a frame, it is called a "spare". The score for that frame is 10 plus the score of the next roll.
 * If a bowler doesn't knock down all the pins in a frame (i.e., no strike or spare), the score for that frame is the total number of pins knocked down in those 2 rolls.
 * The 10th frame has some special rules:
-* If a strike is rolled, the bowler gets two more rolls.
-* If a spare is rolled, the bowler gets one more roll.
-* These additional rolls are used to calculate the score of the 10th frame, but they don't count as separate frames.
+    * If a strike is rolled, the bowler gets two more rolls.
+    * If a spare is rolled, the bowler gets one more roll.
+    * These additional rolls are used to calculate the score of the 10th frame, but they don't count as separate frames.
 
 #### Expected Inputs and Outputs:
 
